@@ -1,10 +1,4 @@
 /*
-CSE 430- HW2 Group 36
-
-Authors:
-Vignesh Iyer 1207653833
-Akhilesh Goud Aila 1207240953
-Abha Upadhyay 1207062047
 
 Program to perform matrix multiplication using threads.
 
